@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Ashok Shedge</h1>
+<h1 align="center">Hi 👋, I'm Pooja Shedge</h1>
 <h3 align="center">A passionate Data Enthusiast</h3>  
 <img align="right" alt="coding" width="400" src="https://github.com/poojashedge12/Pooja-Shedge/assets/110235823/42c93183-b5cc-4559-a4a6-fa1ff5cd6887">
 
