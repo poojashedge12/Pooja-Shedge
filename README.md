@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Business Analytics, Data Analytics, and Data Science concepts**
 
-- 👯 I’m looking to collaborate on **all topics related to Business Analytics,Data Analytics, Data Science**
+- 👯 I’m looking to collaborate on **all topics related to Business Analytics, Data Analytics, Data Science**
 
 - 💬 Ask me about **Statistical concepts,Machine Learning**
 
