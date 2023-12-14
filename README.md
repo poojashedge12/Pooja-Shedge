@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pooja Ashok Shedge</h1>
+<h1 align="center">Hi 👋, I'm Pooja Shedge</h1>
 <h3 align="center">A passionate Data Enthusiast</h3>
 <img align = "Right" alt ="coding" width ="400" src = "![image](https://github.com/poojashedge12/Pooja-Shedge/assets/110235823/8003bca3-4721-4fa8-8269-066bfbb3285f)
 ">
 
-- 🌱 I’m currently learning **Business Anaytics,Data Analytics and Data Science concept**
+- 🌱 I’m currently learning **Business Analytics, Data Analytics, and Data Science concepts**
 
-- 👯 I’m looking to collaborate on **on all topics related Business anaytics,Data Analytics,Data Science**
+- 👯 I’m looking to collaborate on **all topics related to Business Analytics,Data Analytics, Data Science**
 
 - 💬 Ask me about **Statistical concepts,Machine Learning**
 
